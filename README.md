@@ -1,4 +1,4 @@
-# Machine Learning and Data Science Projects
+# Machine Learning and Data Science Topics
 
 Welcome to the repository containing various machine learning and data science projects! This folder contains Jupyter Notebook files (.ipynb) along with relevant Python files and datasets to facilitate your learning journey. Below is a brief overview of the topics covered and the datasets provided:
 
